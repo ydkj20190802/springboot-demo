@@ -26,6 +26,13 @@ public class Main {
         System.out.println("this is v2  呀呀呀");
     }
    public static void test(){
+<<<<<<< HEAD
        System.out.println("this is 测试方法1"); 
+=======
+       System.out.println("this is 测试方法"); 
+  }
+  public static void test2(){
+   System.out.println("this is 测试方法22222222"); 
+>>>>>>> v2
   }
 }
