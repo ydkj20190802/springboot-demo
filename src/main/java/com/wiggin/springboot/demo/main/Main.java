@@ -1,11 +1,11 @@
-package com.wiggin.springboot.demo.main;
+﻿package com.wiggin.springboot.demo.main;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-
+//123
 
 /**
  * copyright 2015-2020
