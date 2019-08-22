@@ -22,6 +22,10 @@ import org.springframework.context.annotation.ComponentScan;
 public class Main {
     public static void main(String[] args) {
         SpringApplication.run(Main.class);
-        System.out.println("v1");
+        System.out.println("v2");
+        System.out.println("this is v2  呀呀呀");
     }
+   public static void test(){
+       System.out.println("this is 测试方法1"); 
+  }
 }
