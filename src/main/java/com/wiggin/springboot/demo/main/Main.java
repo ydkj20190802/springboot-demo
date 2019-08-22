@@ -28,4 +28,7 @@ public class Main {
    public static void test(){
        System.out.println("this is 测试方法"); 
   }
+  public static void test2(){
+   System.out.println("this is 测试方法22222222"); 
+  }
 }
