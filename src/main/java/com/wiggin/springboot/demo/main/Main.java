@@ -24,12 +24,13 @@ public class Main {
         SpringApplication.run(Main.class);
         System.out.println("v2");
         System.out.println("this is v2  呀呀呀");
-        System.out.println("this is master");
+       System.out.println("this is master");
+        System.out.println("不一样呀闭一眼");
+>>>>>>> v2
     }
    public static void test(){
-<<<<<<< HEAD
+
        System.out.println("this is 测试方法1"); 
-=======
        System.out.println("this is 测试方法"); 
   }
   public static void test2(){
